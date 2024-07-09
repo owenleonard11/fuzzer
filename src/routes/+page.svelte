@@ -23,7 +23,7 @@
 <div class="card text-xl p-4 mx-8">
 	<code class="code">v0.1</code>
 	<span>|</span> 
-	<a href="https://github.com/owenleonard11/titlegrok/" class="anchor">GitHub</a>
+	<a href="https://github.com/owenleonard11/fuzzer" class="anchor">GitHub</a>
 	<span>|</span>
-	<a href="https://titlegrok.readthedocs.io/" class="anchor">ReadTheDocs</a>
+	<a href="https://fuzzer.readthedocs.io/en/latest/" class="anchor">ReadTheDocs</a>
 </div>
